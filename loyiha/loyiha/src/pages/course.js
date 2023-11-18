@@ -18,7 +18,7 @@ const course = () => {
                         <div className="icon">
                             <i className="flaticon-art-and-design"></i>
                         </div>
-                        <h3>Premium Quality</h3>
+                        <h3>Premium Qualit</h3>
                         <p>
                             Your domain control panel is designed for ease-of-use <br/> and <br/>
                             allows for all aspects of
