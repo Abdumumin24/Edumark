@@ -9,7 +9,7 @@ const navbar = () =>{
                     <div className="row align-items-center no-gutters">
                         <div className="col-xl-2 col-lg-2">
                             <div className="logo-img">
-                                <a href="index.html">
+                                <a href="./App.js">
                                     <img src="img/logo.png" alt=""/>
                                 </a>
                             </div>
@@ -19,7 +19,7 @@ const navbar = () =>{
                                 <nav>
                                     <ul id="navigation">
                                         <li><a className="active" href="">home</a></li>
-                                        <li><a href="courses.js">Courses</a></li>
+                                        <li><a href="./courses.js">Courses</a></li>
                                         <li><a href="/">pages <i className="ti-angle-down"></i></a>
                                             <ul className="submenu">
                                                 <li><a href="course_details.html">course details</a></li>
